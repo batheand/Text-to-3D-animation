@@ -1,0 +1,6 @@
+allophant
+torch
+torchaudio
+soundfile
+numpy==1.26.4
+scipy

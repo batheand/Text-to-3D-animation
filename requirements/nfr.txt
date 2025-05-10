@@ -1,0 +1,13 @@
+wheel
+transforms3d
+scipy
+potpourri3d 
+cupy
+trimesh 
+open3d 
+libigl 
+robust_laplacian 
+vedo
+torch==2.7.0
+--find-links https://data.pyg.org/whl/torch-2.7.0+cpu.html
+torch-scatter
